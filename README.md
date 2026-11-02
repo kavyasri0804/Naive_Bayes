@@ -94,5 +94,4 @@ The program displays the training and testing evaluation results, predicts the s
 ## 📝 Conclusion
 This project demonstrates how Gaussian Naive Bayes can be used for multiclass classification with Python and Scikit-learn. It covers data preprocessing, model training, evaluation, prediction, and model persistence.
 
-## 👩‍💻 Author
-**Kavya Sri**
+
